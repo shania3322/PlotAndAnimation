@@ -13,6 +13,6 @@ distribution.
     `new_states = W @ states`
 
 Results after 24 frames:
-<img src="./animation/MarkovChain.gif", width="150"/>
+![markov chain](./animation/MarkovChain.gif)
 
 
